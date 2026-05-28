@@ -416,7 +416,7 @@
         "uuid": "b6ef5934-39d2-41a6-b7e8-7e2d7c9c4a1b"
       }
     ],
-    "used_designators": "#PWR3-17,J2-4,R1-3,C4-11,U3",
+    "used_designators": "J5,fan1,heater1,term1,Q1-5,#PWR18-27",
     "variants": []
   },
   "sheets": [
