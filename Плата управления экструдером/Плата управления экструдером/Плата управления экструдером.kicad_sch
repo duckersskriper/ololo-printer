@@ -5238,6 +5238,12 @@
 		(uuid "977bbc28-d7d7-4383-8e5b-98e4418e9caa")
 	)
 	(junction
+		(at 304.8 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9c0343ae-be52-4f6e-929f-9a805c937661")
+	)
+	(junction
 		(at 199.39 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11263,6 +11269,84 @@
 			(project "Плата управления экструдером"
 				(path "/b6ef5934-39d2-41a6-b7e8-7e2d7c9c4a1b"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+24V")
+		(at 304.8 113.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9298ceee-6b30-4e19-a531-1bfb16165fe2")
+		(property "Reference" "#PWR034"
+			(at 304.8 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+24V"
+			(at 304.8 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 304.8 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 304.8 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+24V\""
+			(at 304.8 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1ca67908-af6b-4ff2-a394-642c4e5de7dc")
+		)
+		(instances
+			(project "Плата управления экструдером"
+				(path "/b6ef5934-39d2-41a6-b7e8-7e2d7c9c4a1b"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
