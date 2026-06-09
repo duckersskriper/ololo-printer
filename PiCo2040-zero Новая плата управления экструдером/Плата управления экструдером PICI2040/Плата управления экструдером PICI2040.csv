@@ -1,0 +1,16 @@
+"Идентиф.";"Обозначение";"Посад. место";"Количество";"Значение";"Поставщик и справка";
+1;"A1";"Pololu_Breakout-16_15.2x20.3mm";1;"Pololu_Breakout_A4988";;;
+2;"bl_touch1";"JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical";1;"Conn_01x05_Pin";;;
+3;"C3";"CP_Radial_D6.3mm_P2.50mm";1;"100uF 35V";;;
+4;"C11";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"0.1 uF";;;
+5;"cooler_mod1, fan1, heater1, switch1, term1";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";5;"Conn_01x02_Pin";;;
+6;"extruder1";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";1;"Conn_01x04_Pin";;;
+7;"J5, J6, J10";"PinSocket_1x08_P2.54mm_Vertical";3;"Conn_01x08_Pin";;;
+8;"J7, J8";"PinHeader_1x08_P2.54mm_Vertical";2;"Conn_01x08_Pin";;;
+9;"J9";"PinHeader_2x03_P2.54mm_Vertical";1;"Conn_02x03_Odd_Even";;;
+10;"POWER_IN_24V1";"TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal";1;"Screw_Terminal_01x02";;;
+11;"Q1, Q2, Q3";"TO-220-3_Vertical";3;"IRLB8721";;;
+12;"R4, R5, R6";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";3;"10k";;;
+13;"R7";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"4.7k";;;
+14;"R8, R9, R10";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";3;"100R";;;
+15;"U1";"rp2040-zero-smd";1;"rp2040-zero";;;
