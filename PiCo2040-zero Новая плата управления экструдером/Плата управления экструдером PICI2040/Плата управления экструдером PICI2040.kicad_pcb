@@ -10477,6 +10477,14 @@
 		(uuid "e189b3e2-c87e-413b-9fea-b91be97a24d4")
 	)
 	(segment
+		(start 120.91 100.1)
+		(end 118.37 100.1)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "Net-(A1-~{RESET})")
+		(uuid "128a465b-1eb9-4330-bd95-47b8ef37b836")
+	)
+	(segment
 		(start 123.45 100.1)
 		(end 121.55 102)
 		(width 0.5)
