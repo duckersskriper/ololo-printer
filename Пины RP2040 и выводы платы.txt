@@ -1,0 +1,11 @@
+Назначение пинов	Порядковый номер на схеме	Аппаратное название 
+Enable	20	gpio29
+Step	19	gpio28
+DIR	18	gpio27
+termistor	17	gpio26
+BL_Z-min	1	gpio0
+BL_contr_signal	2	gpio1
+heather	4	gpio3
+cooler	5	gpio4
+fan_control	6	gpio5
+switch	8	gpio7
